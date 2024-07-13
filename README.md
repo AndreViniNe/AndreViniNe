@@ -1,4 +1,4 @@
-- 👋 Olá, sou o André Vinícius Neves da Silva (@AndreViniNe) e tenho 18 anos
+- 👋 Olá, me chamo André Vinícius Neves da Silva (@AndreViniNe) e tenho 19 anos
 - 👀 Estou interessado na área de Dados, com foco em Ciência de Dados
 - 🌱 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas, e aprendendo Ciência de Dados por cursos
 - 💞️ Procuro poder colaborar em projetos na área de dados
